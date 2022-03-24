@@ -299,6 +299,6 @@ html {
 
 @media (min-width:1200px) and (max-width:1605px) {
     .benefits .row {
-        padding: 0 4rem !important;
+        padding: 0 6rem !important;
     }
 }
