@@ -296,7 +296,7 @@ html {
 .lastsection {
     padding-top: 3rem !important;
 }
-@media (min-width:1200px) and (max-width:1605px) {
+@media (min-width:1250px) and (max-width:1400px) {
     .benefits .row {
         padding: 0 6rem !important;
     }
